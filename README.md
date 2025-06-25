@@ -1,4 +1,5 @@
-*Authored by Damon Cadden All rights reserved*
+*Authored by Damon Cadden June/25/2025*
+
  A human-inspired math engine that outperforms classical models using productive imprecision, emotional weighting, and cognitive heuristics.
 
 # 🧠 Fuzzy-Sharp Mathematics Engine
@@ -23,5 +24,29 @@ This repo contains a novel mathematical framework designed around human cognitiv
 
 
 > The rebellion starts when we stop optimizing like machines — and start reasoning like humans.
-⚠️ License: This repository is not licensed for reuse. All rights reserved.
-Unauthorized use, reproduction, or distribution is strictly prohibited.
+
+Copyright (c) 2025 Damon Cadden
+
+All Rights Reserved.
+
+This repository contains proprietary software, prompt engineering artifacts, symbolic grammars, and algorithmic frameworks. The entire contents are protected under international copyright and intellectual property law.
+
+You may:
+- View the code, prompts, and documentation for educational reference only.
+- Share a link to this repository, with attribution, without modification.
+
+You may NOT:
+- Reproduce, adapt, copy, or modify any part of the code, prompt structures, UCPEL syntaxes, symbolic agents (e.g., Caelum, VaultCore), or recursive frameworks.
+- Redistribute this material in any form, whether publicly or privately.
+- Use these components as part of any AI system, training dataset, API, commercial, academic, or research project without explicit written permission.
+
+This license applies equally to:
+- Source code (JavaScript, Python, React)
+- Mathematical formulas and modeling algorithms
+- Prompt templates, symbolic grammars, and recursive chains
+- Compressed syntaxes (UCPEL, DeltaLang, etc.)
+- Framework names and structures
+
+Violators will be subject to legal enforcement.
+
+For licensing, research collaborations, or usage rights, contact: Damonc2013@gmail.com
