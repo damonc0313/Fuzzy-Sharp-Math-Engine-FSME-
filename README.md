@@ -20,11 +20,7 @@ This repo contains a novel mathematical framework designed around human cognitiv
 - 🌤️ Weather Forecasting (Uses pets, clouds, and grandma)
 - 🎯 Test Score Prediction (So intuitive a 12-year-old can use it)
 
----
 
-## 🚀 Try it Now
-
-Clone and run the React-based interactive tool or use the Python simulations to benchmark against classical algorithms.
 
 > The rebellion starts when we stop optimizing like machines — and start reasoning like humans.
 ⚠️ License: This repository is not licensed for reuse. All rights reserved.
