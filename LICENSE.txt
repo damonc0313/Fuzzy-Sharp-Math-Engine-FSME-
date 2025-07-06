@@ -2,24 +2,33 @@ Copyright (c) 2025 Damon Cadden
 
 All Rights Reserved.
 
-This repository contains proprietary software, prompt engineering artifacts, symbolic grammars, and algorithmic frameworks developed under the FSPEE-BIO-ULTRA v2.6 initiative. The entire contents are protected under international copyright and intellectual property law.
+This repository, including all source code, prompt engineering artifacts, symbolic grammars, algorithmic frameworks, and related materials (collectively, the “Materials”), is proprietary to Damon Cadden and protected under international copyright and intellectual property laws.
 
-You may:
-- View the code, prompts, documentation, and related materials for educational reference only.
-- Share a link to this repository with proper attribution, without modification.
+**Permitted Uses:**  
+You may:  
+- Access, view, and study the Materials for personal, non-commercial, educational, and research purposes only.  
+- Share a direct link to this repository, provided you give proper attribution to Damon Cadden and do not modify the Materials.
 
-You may NOT:
-- Reproduce, adapt, copy, or modify any part of the codebase, prompt structures, UCPEL syntaxes, symbolic agents (e.g., Caelum, VaultCore), or recursive framework components.
-- Redistribute, publish, or disseminate this material in any form, publicly or privately.
-- Use these components as part of any AI system, training dataset, API, commercial, academic, or research project without explicit prior written permission from the author.
+**Prohibited Uses:**  
+You may NOT:  
+- Copy, reproduce, adapt, modify, translate, distribute, publish, sublicense, or create derivative works from any part of the Materials.  
+- Use the Materials, or any portion thereof, in any AI systems, training datasets, commercial products, academic projects, APIs, or any public or private distribution without explicit written permission from Damon Cadden.  
+- Remove or alter any copyright, trademark, or proprietary notices contained in the Materials.
 
-This license applies equally to all included materials, including but not limited to:
-- Source code (JavaScript, Python, React)
-- Mathematical formulas and modeling algorithms
-- Prompt templates, symbolic grammars, and recursive chain structures
-- Compressed syntaxes (UCPEL, DeltaLang, etc.)
-- Framework names, brand marks, and architectural structures
+**Scope:**  
+This license applies to all components of the repository, including but not limited to:  
+- Source code (JavaScript, Python, React, etc.)  
+- Mathematical formulas and modeling algorithms  
+- Prompt templates, symbolic grammars, and recursive chain structures  
+- Compressed syntaxes such as UCPEL, DeltaLang, and similar  
+- Framework architecture, names, and brand marks
 
-Violations of these terms will result in legal enforcement actions.
+**Enforcement:**  
+Unauthorized use, reproduction, or distribution of the Materials constitutes copyright infringement and will be subject to legal action.
 
-For licensing inquiries, research collaborations, or usage rights, please contact: damonc2013@gmail.com
+**Contact:**  
+For licensing inquiries, collaborations, or permissions, please contact: damonc2013@gmail.com
+
+---
+
+This license grants no other rights or licenses, express or implied.
