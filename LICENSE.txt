@@ -2,24 +2,24 @@ Copyright (c) 2025 Damon Cadden
 
 All Rights Reserved.
 
-This repository contains proprietary software, prompt engineering artifacts, symbolic grammars, and algorithmic frameworks. The entire contents are protected under international copyright and intellectual property law.
+This repository contains proprietary software, prompt engineering artifacts, symbolic grammars, and algorithmic frameworks developed under the FSPEE-BIO-ULTRA v2.6 initiative. The entire contents are protected under international copyright and intellectual property law.
 
 You may:
-- View the code, prompts, and documentation for educational reference only.
-- Share a link to this repository, with attribution, without modification.
+- View the code, prompts, documentation, and related materials for educational reference only.
+- Share a link to this repository with proper attribution, without modification.
 
 You may NOT:
-- Reproduce, adapt, copy, or modify any part of the code, prompt structures, UCPEL syntaxes, symbolic agents (e.g., Caelum, VaultCore), or recursive frameworks.
-- Redistribute this material in any form, whether publicly or privately.
-- Use these components as part of any AI system, training dataset, API, commercial, academic, or research project without explicit written permission.
+- Reproduce, adapt, copy, or modify any part of the codebase, prompt structures, UCPEL syntaxes, symbolic agents (e.g., Caelum, VaultCore), or recursive framework components.
+- Redistribute, publish, or disseminate this material in any form, publicly or privately.
+- Use these components as part of any AI system, training dataset, API, commercial, academic, or research project without explicit prior written permission from the author.
 
-This license applies equally to:
+This license applies equally to all included materials, including but not limited to:
 - Source code (JavaScript, Python, React)
 - Mathematical formulas and modeling algorithms
-- Prompt templates, symbolic grammars, and recursive chains
+- Prompt templates, symbolic grammars, and recursive chain structures
 - Compressed syntaxes (UCPEL, DeltaLang, etc.)
-- Framework names and structures
+- Framework names, brand marks, and architectural structures
 
-Violators will be subject to legal enforcement.
+Violations of these terms will result in legal enforcement actions.
 
-For licensing, research collaborations, or usage rights, contact: damonc2013@gmail.com
+For licensing inquiries, research collaborations, or usage rights, please contact: damonc2013@gmail.com
